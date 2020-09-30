@@ -89,7 +89,7 @@ Press okay and we should now see new buttons in the top right of IntelliJ. Press
 
 ### Hello World!
 
-![Hellow World!](images/hello-world.png)
+![Hello World!](images/hello-world.png)
 
 If all went well you should see the iconic phrase 'Hello World!' in the newly opened console. You have just successfully run a Java program!
 
