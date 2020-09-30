@@ -35,8 +35,78 @@ Perhaps the most useful of all the software listed here! Jetbrains offer an enti
 [Claim your Student License for the Jetbrains Suite here.](https://www.jetbrains.com/community/education/#students)
 
 ## The Eighth Ring of Hell Runs on Java
+Java kinda sucks a lot, but it serves as a pretty decent introduction to programming, and regardless of whether or not you like it you will be stuck with it for the next few years of college :)
+
+Throughout this course you are free to use what ever IDE you wish, Eclipse is normally the most popular one amongst students, but personally I think it sucks. So for the purposes of this document I will be running through how to configure IntelliJ to start programming in Java.
+
+### 00 Prerequisites
+Before beginning make sure you have the following installed:
+- [The Java SDK (This can be downloaded from within the 'New Project' menu in IntelliJ)](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
+- [The latest version of processing.](https://processing.org/download/)
+
+### 01 Creating a Project
+Upon opening IntelliJ for the first time you will be greeted by this screen.
+
+![Welcome To IntelliJ](welcome.png)
+
+Press 'New Project to continue.'
+
+We now have to input our JDK settings which should look like they do below. You can select your version of the JDK using the dropdown labeled 'Project SDK', here you can also have IntelliJ download the JDK for you.
+
+![JDK Settings Menu](jdk-settings.png)
+
+The next screen is the template selector, for now you can ignore this and press 'Next'.
+
+Now you will be asked to input a name for your project, once chosen press 'Finish'.
+
+You have now successfully created an IntelliJ project!
+
+![An Empty IntelliJ Project](editor-empty.png)
+
+### 02 Creating a Java Class
+In the editor, right click the `src` folder and choose `New > Java Class` and name it `Main`. The main pane of IntelliJ should now have a text editor in it and the barebones of a java class.
+
+Paste the following code into the text editor:
+
+```Java
+public class Main {
+    public static void main(String[] args){
+        System.out.println("Hello World!");
+    }
+}
+```
+
+### Running Your Code
+Before we can run our simple program we first have to configure IntelliJ to know what version of Java to use.
+
+There should be a dropdown in the top write of IntelliJ that says 'Add Configuration...', click this and the following window will open.
+
+![IntelliJ's Configuration Menu](config.png)
+
+Here, click the + button in the top left and choose 'Application' from the dropdown. Now press the '...' button next to the text field labeled 'Main class:'. Choose the 'Main.java' class that we created earlier.
+
+Press okay and we should now see new buttons in the top right of IntelliJ. Press the Run button (Green Play Button).
+
+### Hello World!
+
+![Hellow World!](hello-world.png)
+
+If all went well you should see the iconic phrase 'Hello World!' in the newly opened console. You have just successfully run a Java program!
 
 ## Java: The Sequel (Processing)
+**Remember, Processing is just a Java library!**
+
+Whilst the Processing IDE may make it seem as if Processing is its own language, it is merely a Java library. That means that you can use the features of processing in any IDE that supports Java, however this requires some additional setup.
+
+I will be detailing the steps required to programming in Processing using IntelliJ (which is free for students as detailed above).
+
+### 00 Prerequisites
+Before beginning make sure you have the following installed:
+- [The Java SDK (This can be downloaded from within the 'New Project' menu in IntelliJ)](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
+- [The latest version of processing.](https://processing.org/download/)
+- [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/)
+
+Additionally follow the steps from **The Eighth Ring of Hell Runs on Java** to setup a basic Java Project.
 
 ## 'Team' Project and Subversion
 
@@ -57,6 +127,10 @@ I personally would recommend using Overleaf, which is a free online LaTeX interp
 
 [Check Overleaf here.](https://www.overleaf.com)
 [The basics of LaTeX syntax.](https://en.wikibooks.org/wiki/LaTeX/Basics)
+
+For taking your own notes, I recommend using Markdown as it is even easier to use than LaTeX, and allows for quick formatting of text documents. In fact this document was written entirely using Markdown.
+
+[The basics of Markdown](https://www.markdownguide.org/basic-syntax)
 
 ## Societies, the Student Union and You
 
