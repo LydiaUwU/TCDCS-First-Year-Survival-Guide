@@ -47,13 +47,13 @@ Before beginning make sure you have the following installed:
 ### 01 Creating a Project
 Upon opening IntelliJ for the first time you will be greeted by this screen.
 
-![Welcome To IntelliJ](welcome.png)
+![Welcome To IntelliJ](images/welcome.png)
 
 Press 'New Project to continue.'
 
 We now have to input our JDK settings which should look like they do below. You can select your version of the JDK using the dropdown labeled 'Project SDK', here you can also have IntelliJ download the JDK for you.
 
-![JDK Settings Menu](jdk-settings.png)
+![JDK Settings Menu](images/jdk-settings.png)
 
 The next screen is the template selector, for now you can ignore this and press 'Next'.
 
@@ -61,7 +61,7 @@ Now you will be asked to input a name for your project, once chosen press 'Finis
 
 You have now successfully created an IntelliJ project!
 
-![An Empty IntelliJ Project](editor-empty.png)
+![An Empty IntelliJ Project](images/editor-empty.png)
 
 ### 02 Creating a Java Class
 In the editor, right click the `src` folder and choose `New > Java Class` and name it `Main`. The main pane of IntelliJ should now have a text editor in it and the barebones of a java class.
@@ -81,7 +81,7 @@ Before we can run our simple program we first have to configure IntelliJ to know
 
 There should be a dropdown in the top write of IntelliJ that says 'Add Configuration...', click this and the following window will open.
 
-![IntelliJ's Configuration Menu](config.png)
+![IntelliJ's Configuration Menu](images/config.png)
 
 Here, click the + button in the top left and choose 'Application' from the dropdown. Now press the '...' button next to the text field labeled 'Main class:'. Choose the 'Main.java' class that we created earlier.
 
@@ -89,7 +89,7 @@ Press okay and we should now see new buttons in the top right of IntelliJ. Press
 
 ### Hello World!
 
-![Hellow World!](hello-world.png)
+![Hellow World!](images/hello-world.png)
 
 If all went well you should see the iconic phrase 'Hello World!' in the newly opened console. You have just successfully run a Java program!
 
