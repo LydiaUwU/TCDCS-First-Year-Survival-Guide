@@ -46,7 +46,17 @@ Perhaps the most useful of all the software listed here! Jetbrains offer an enti
 
 ## We Live in a Society
 
+## R and RStudio
+
 ## Don't Trust WYSIWYG
+We've all tried to add an image to a Word document only to have it move everything around and still end up in the wrong place.
+
+Over the course of your course you will have to submit a number of essays and write-ups. My recommendation is to never use 'What You See Is What You Get' software like Microsoft Word for these assignments as they will only lead to headaches and slow you down in the long run. Instead I recommend using a markup language, particularly LaTeX. This may seem incredibly daunting to learn at first, but after your first go you will realise that its syntax is incredibly simple, but extremely flexible. Not only will it allow you to make your documents look more professional, but it will save you a lot of time in the long run.
+
+I personally would recommend using Overleaf, which is a free online LaTeX interpreter with a live preview of your document.
+
+[Check Overleaf here.](https://www.overleaf.com)
+[The basics of LaTeX syntax.](https://en.wikibooks.org/wiki/LaTeX/Basics)
 
 ## Societies, the Student Union and You
 
