@@ -89,7 +89,7 @@ Press okay and we should now see new buttons in the top right of IntelliJ. Press
 
 ### Hello World!
 
-![Hello World!](images/hello-world.png)
+![Hello World!](images/success.png)
 
 If all went well you should see the iconic phrase 'Hello World!' in the newly opened console. You have just successfully run a Java program!
 
@@ -111,10 +111,23 @@ Additionally follow the steps from **The Eighth Ring of Hell Runs on Java** to s
 ## 'Team' Project and Subversion
 
 ## Verilog and the Cult of Waldron
+Beginning Digital Logic Design you may be told about a piece of software called Icarus Verilog. Don't bother with it. It's a complete pain to download, install and use and you can complete the majority of the module with nothing more than [Atom](https://atom.io/) and the [Verilog syntax highlighting plugin](https://atom.io/packages/language-verilog).
+
+In the second semester you will be asked to start writing Verilog test-benches in addition to Verilog programs. For this I recommend the webiste [EDA Playground](https://www.edaplayground.com/) which will allow you to write and run a test-bench in browser.
 
 ## ARM ASM [ASMR]
+To my knowledge, the software used for the Introduction to Computing modules has changed from the awful Kiel MicroVision to Visual Studio. So unfortunately I do not have much advice on the software side of things. However the biggest piece of advice I can give is that you should *always* write psuedo-code before starting to write in ASM, it will make your life so much easier throughout this module.
 
 ## We Live in a Society
+For many, Computers and Society may be initially off-putting, however if you approach the module with an open mind you will begin to find the module to be enjoyable and interesting.
+
+### The Lectures
+The lectures are best when the class participates in them. Don't be scared to chime in when prompted, however *be prepared to be put on the spot. The lecturer will ask you hard questions about ideas you put forward in front of the whole class!*
+
+### The Presentation
+The grading of the module revolves around a final presentation at the end of the semester. I highly recommend taking the topic and choosing something you are personally interested in/passionate about in relevance to your topic. A presentation is always better when the audience can tell that the speaker is interested in the topic of their presentation. Additionally, keep a clean, consistent, and appealing visual styling for your presentation.
+
+*Avoid put memes or jokes throughout your presentation, they will not land very well with the judges.*
 
 ## R and RStudio
 
@@ -128,8 +141,9 @@ I personally would recommend using Overleaf, which is a free online LaTeX interp
 [Check Overleaf here.](https://www.overleaf.com)
 [The basics of LaTeX syntax.](https://en.wikibooks.org/wiki/LaTeX/Basics)
 
-For taking your own notes, I recommend using Markdown as it is even easier to use than LaTeX, and allows for quick formatting of text documents. In fact this document was written entirely using Markdown.
+For taking your own notes, I recommend using Markdown as it is even easier to use than LaTeX, and allows for quick formatting of text documents. In fact this document was written entirely using Markdown. For writing markdown I personally use the Atom text editor, which is highly customisable and easy to use, alongside being free and open source.
 
+[Atom](https://atom.io/)
 [The basics of Markdown](https://www.markdownguide.org/basic-syntax)
 
 ## Societies, the Student Union and You
