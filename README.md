@@ -138,13 +138,13 @@ Over the course of your course you will have to submit a number of essays and wr
 
 I personally would recommend using Overleaf, which is a free online LaTeX interpreter with a live preview of your document.
 
-[Check Overleaf here.](https://www.overleaf.com)
-[The basics of LaTeX syntax.](https://en.wikibooks.org/wiki/LaTeX/Basics)
+- [Check out Overleaf here](https://www.overleaf.com)
+- [The basics of LaTeX syntax](https://en.wikibooks.org/wiki/LaTeX/Basics)
 
 For taking your own notes, I recommend using Markdown as it is even easier to use than LaTeX, and allows for quick formatting of text documents. In fact this document was written entirely using Markdown. For writing markdown I personally use the Atom text editor, which is highly customisable and easy to use, alongside being free and open source.
 
-[Atom](https://atom.io/)
-[The basics of Markdown](https://www.markdownguide.org/basic-syntax)
+- [Atom](https://atom.io/)
+- [The basics of Markdown](https://www.markdownguide.org/basic-syntax)
 
 ## Societies, the Student Union and You
 
