@@ -1,14 +1,14 @@
 # TCDS First Year Survival Guide
 
 ## Introduction
-Congratulations on making it into Computer Science at Trinity! Here is a list of things I wish I knew when I started out as a naive and uninformed fresher.
+Congratulations on making it into Computer Science at Trinity! Here is a list of things I wish I knew when I started out as a naïve and uninformed fresher.
 
-If you have any questions feel free to file an issue here on GitHub or you can reach me on discord through DMs @Lydia#3999 or the //TCDCD Discord Server <https://discord.gg/Rtxd7eH>
+If you have any questions feel free to file an issue here on GitHub or you can reach me on discord through DMs @Lydia#3999 or the [//TCDCS Discord Server](https://discord.gg/Rtxd7eH)
 
 ## Student Deals and Licenses
 You may or may not be aware that being a college student more often than not entitles you to a student discount to a variety of things, from software subscriptions, to Spotify premium, to food in restaurants. It might seem awkward at first, but if you wish to save a fairly significant amount of money, you should ***absolutely*** make use of this discount at every chance you get. Remember *there is no harm in trying*. Whenever you order at a restaurant ask "Do you have a student discount?", if you ever see a piece of software online send them an email asking "Do you have a student discount?". The phrase "Do you have a student discount?" should be the first thing you say to anyone for the rest of your time in college.
 
-But whats better than a discount? Getting something for the low, low price of **FREE**. By having an email address registered with the college you are entitled to a number of pieces of software and digital services for free.
+But what's better than a discount? Getting something for the low, low price of **FREE**. By having an email address registered with the college you are entitled to a number of pieces of software and digital services for free.
 
 ### GitHub Pro
 Whilst its use may not be immediately apparent at the start of Computer Science, over the course of the coming years you will find that GitHub is perhaps one of the most useful tools to a programmer allowing you to store, log and collaborate on both your college and personal projects.
@@ -113,10 +113,10 @@ Additionally follow the steps from **The Eighth Ring of Hell Runs on Java** to s
 ## Verilog and the Cult of Waldron
 Beginning Digital Logic Design you may be told about a piece of software called Icarus Verilog. Don't bother with it. It's a complete pain to download, install and use and you can complete the majority of the module with nothing more than [Atom](https://atom.io/) and the [Verilog syntax highlighting plugin](https://atom.io/packages/language-verilog).
 
-In the second semester you will be asked to start writing Verilog test-benches in addition to Verilog programs. For this I recommend the webiste [EDA Playground](https://www.edaplayground.com/) which will allow you to write and run a test-bench in browser.
+In the second semester you will be asked to start writing Verilog test-benches in addition to Verilog programs. For this I recommend the website [EDA Playground](https://www.edaplayground.com/) which will allow you to write and run a test-bench in browser.
 
 ## ARM ASM [ASMR]
-To my knowledge, the software used for the Introduction to Computing modules has changed from the awful Kiel MicroVision to Visual Studio. So unfortunately I do not have much advice on the software side of things. However the biggest piece of advice I can give is that you should *always* write psuedo-code before starting to write in ASM, it will make your life so much easier throughout this module.
+To my knowledge, the software used for the Introduction to Computing modules has changed from the awful Kiel MicroVision to Visual Studio. So unfortunately I do not have much advice on the software side of things. However the biggest piece of advice I can give is that you should *always* write pseudo-code before starting to write in ASM, it will make your life so much easier throughout this module.
 
 ## We Live in a Society
 For many, Computers and Society may be initially off-putting, however if you approach the module with an open mind you will begin to find the module to be enjoyable and interesting.
