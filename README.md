@@ -1,4 +1,4 @@
-# TCDS First Year Survival Guide
+# TCDCS First Year Survival Guide
 
 ## Introduction
 Congratulations on making it into Computer Science at Trinity! Here is a list of things I wish I knew when I started out as a naïve and uninformed fresher.
@@ -145,6 +145,17 @@ For taking your own notes, I recommend using Markdown as it is even easier to us
 
 - [Atom](https://atom.io/)
 - [The basics of Markdown](https://www.markdownguide.org/basic-syntax)
+
+## How to Take a Screenshot
+We have all been in the position where we just can't get a piece of code to work and we need to send a screenshot of it to ask for help!
+
+![A blurry Picture of a Monitor](images/code.jpg)
+
+***Don't do this***
+
+Instead use a screenshotting tool! There are tonnes of good screenshotting tools around, from Windows' built in Snipping Tool, to Gyazo. Personally I have been using a piece of software called [ShareX](https://getsharex.com/) to take my screenshots.
+
+With ShareX installed, all you need to do is press `ctrl+prtscrn` and then click and drag to select and area of your screen to take a screenshot of. What's even better is you can paste these images directly into discord using `ctrl+v`!
 
 ## Societies, the Student Union and You
 
