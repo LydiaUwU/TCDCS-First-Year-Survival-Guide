@@ -25,9 +25,9 @@ This one is pretty self explanatory! All the classics, Word, Excel, PowerPoint, 
 [Download Office 365 here.](https://www.office.com)
 
 ### Microsoft Azure
-Being an SCSS student entitles you do a number of developer centric software straight from Microsoft, including Windows 10 Pro and Visual Studio. Simply sign into the Azure portal to claim your keys and downloads!
+Being an SCSS student entitles you to a number of developer centric software straight from Microsoft, including Windows 10 Pro and Visual Studio. Simply sign into the Azure portal to claim your keys and downloads!
 
-[Access the Azure Portal here.](https://azure.microsoft.com/en-us/)
+[Access the Azure Portal here.](https://azure.microsoft.com/en-us/free/students/)
 
 ### Jetbrains Suite
 Perhaps the most useful of all the software listed here! Jetbrains offer an entire suite of IDEs for nearly any language you could imagine, all with amazing syntax highlighting/code formatting/debugging tools/etc. And what's best of all it includes fantastic support for a variety of Version Control Systems, which will remove a significant portion of headaches for the Programming Project.
